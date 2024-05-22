@@ -1,0 +1,8 @@
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\bin\Debug\Demo.exe.config
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\bin\Debug\Demo.exe
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\bin\Debug\Demo.pdb
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\obj\Debug\Demo.exe
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab 4\Demo\obj\Debug\Demo.pdb
